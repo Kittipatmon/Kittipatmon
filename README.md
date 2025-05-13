@@ -1,5 +1,7 @@
-
-![technology-binary-number-programming-wallpaper-1600x480_68](https://www.mufg-investorservices.com/wp-content/uploads/background-image-1600x480-1.jpg)
+<div id="image-header" align="center">
+  <img src="https://i.pinimg.com/originals/4c/23/98/4c2398e6be397bb08b5cb70b2192d730.gif" width="auto" height="auto"/>
+</div></br>
+ 
 
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3luOXh3YTk1enppcml4N296cWRsbGxoYjJsc2RldHZoaHBqMmVydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
