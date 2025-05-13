@@ -2,7 +2,7 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://www.mufg-investorservices.com/wp-content/uploads/background-image-1600x480-1.jpg)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3luOXh3YTk1enppcml4N296cWRsbGxoYjJsc2RldHZoaHBqMmVydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <div id="badges" mb-2>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
