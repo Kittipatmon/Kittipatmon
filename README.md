@@ -1,5 +1,5 @@
 <div>
- <a><img src="https://images7.alphacoders.com/411/thumb-1920-411820.jpg" width="auto" height="auto" /> </a>
+ <a><img src="https://images7.alphacoders.com/411/thumb-1920-411820.jpg" width="auto" height="50%" /> </a>
  </div>
 
 
