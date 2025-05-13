@@ -59,3 +59,9 @@ src="https://img.shields.io/github/followers/Kittipatmon?logo=github&style=for-t
 <a href="https://github.com/Kittipatmon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kittipatmon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ## 📊 GitHub Stats
 ![Kittipatmon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kittipatmon&show_icons=true&theme=radical)
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Kittipatmon&theme=shadow-orange&locale=th&short_numbers=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kittipatmon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kittipatmon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
