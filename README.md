@@ -22,6 +22,7 @@ src="https://img.shields.io/github/followers/Kittipatmon?logo=github&style=for-t
 
 
 ### Skills
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <p align="left">
@@ -55,6 +56,4 @@ src="https://img.shields.io/github/followers/Kittipatmon?logo=github&style=for-t
 ### Badges
 
 <a href="https://github.com/ohmiler" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmiler&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
