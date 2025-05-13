@@ -1,5 +1,5 @@
 <div>
- <a><img src="https://png.pngtree.com/background/20230416/original/pngtree-website-dark-colorful-background-picture-image_2443532.jpg" width="auto" height="200px" /> </a>
+ <a><img src="https://png.pngtree.com/background/20230416/original/pngtree-website-dark-colorful-background-picture-image_2443532.jpg" width="auto" height="auto" /> </a>
  </div>
 
 
