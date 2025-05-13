@@ -1,3 +1,5 @@
+<a><img src="https://png.pngtree.com/background/20230416/original/pngtree-website-dark-colorful-background-picture-image_2443532.jpg" width="auto" height="auto" /> </a>
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kittipat Manuch
 =========================================================================================================================================
@@ -22,8 +24,6 @@ src="https://img.shields.io/github/followers/Kittipatmon?logo=github&style=for-t
 
 
 ### Skills
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> 
