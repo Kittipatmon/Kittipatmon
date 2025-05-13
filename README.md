@@ -1,4 +1,21 @@
+
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://www.mufg-investorservices.com/wp-content/uploads/background-image-1600x480-1.jpg)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges" mb-2>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  </div>
+  <a><img src="https://komarev.com/ghpvc/?username=Kittipatmon&style=flat-square&color=blue" alt="account counter"/></a>
+</div>
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kittipat Manuch
@@ -7,7 +24,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer, Content Creator, Instructor
 --------------------------------------
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="360" src="https://i.pinimg.com/originals/5e/fc/73/5efc731f49df30021361b9cfaaef28b2.gif">
+  <img align="right" alt="coding_img" width="335" src="https://i.pinimg.com/originals/5e/fc/73/5efc731f49df30021361b9cfaaef28b2.gif">
   </p>
 
 Teaching web development and programming stuff. Never Stop Learning.
@@ -21,12 +38,12 @@ Teaching web development and programming stuff. Never Stop Learning.
 src="https://img.shields.io/github/followers/Kittipatmon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 </div>
-<a><img src="https://komarev.com/ghpvc/?username=Kittipatmon&style=flat-square&color=blue" alt="account counter"/></a>
+
 
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,vite,react,arduino,tailwindcss,bootstrap,discord,figma,git,github,mongodb,mysql,nodejs,ps,vscode&perline=10">
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,vite,react,arduino,tailwindcss,bootstrap,git,github,mongodb,mysql,nodejs,discord,figma,ps,vscode&perline=10">
 </p>
 
 
